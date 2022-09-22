@@ -6,3 +6,8 @@
 body{
     background-color: palevioletred;
 }
+
+.text{
+    font-size: 2em;
+    color: limegreen;
+}
